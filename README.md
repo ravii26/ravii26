@@ -6,7 +6,7 @@ I'm a Computer Engineering student passionate about Full-Stack Web Development a
 - **Languages**: Python, JavaScript, Java
 - **Web Development**: React.js, Node.js, Express.js, HTML/CSS
 - **Databases**: MongoDB, MySQL
-- **Tools**: Git, GitHub, Docker, AWS
+- **Tools**: Git, GitHub
 - **Machine Learning**: Scikit-learn, Pandas, Numpy
 
 ## 📂 Projects
