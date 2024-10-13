@@ -11,7 +11,7 @@ I'm a Computer Engineering student passionate about Full-Stack Web Development a
 
 ## 📂 Projects
 - [Virtual Learning System](https://github.com/ravii26/Virtual-Learning-System): A Virtual Learning System built using Django, React, JWT authentication, and REST APIs is designed to facilitate online education for both instructors and students.
-- [Airbnb Clone](https://github.com/ravii26/Airbnb-Personal):An Airbnb Clone built with Next.js, Django and JWT authentication replicates the core features of Airbnb, allowing hosts to list and manage properties while guests can browse, search, and book accommodations. 
+- [Airbnb Clone](https://github.com/ravii26/Airbnb-Personal): An Airbnb Clone built with Next.js, Django and JWT authentication replicates the core features of Airbnb, allowing hosts to list and manage properties while guests can browse, search, and book accommodations. 
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [linkedin.com/in/ravindra](https://www.linkedin.com/in/ravindrasinh-zala-5215a424a/)
